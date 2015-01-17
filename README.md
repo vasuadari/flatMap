@@ -1,4 +1,4 @@
-# flatten.js
+# flatMap.js
 
 Flattens multidimensional array into a single array.
 
